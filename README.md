@@ -1,8 +1,6 @@
-## MFractal
+## Download
 
-### Download
-
-Download MFractal [Here]()
+Download MFractal [Here](https://designatedscript.github.io/MFractal/download.html)
 
 
 
